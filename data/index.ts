@@ -189,7 +189,7 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Next JS development",
+    title: "Full stack development",
     desc: "Designed and developed banking platform with multiple third party software integrations",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
@@ -214,13 +214,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/Akkacjacodes",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://x.com/adrianacode",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/adriana-sobota/",
   },
 ];
